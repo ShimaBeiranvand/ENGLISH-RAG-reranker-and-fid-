@@ -1,0 +1,14 @@
+Patient ID: P1005
+Name: William Johnson
+Age: 72
+Gender: Male
+Medical Conditions: Chronic Kidney Disease, Hypertension
+Current Medications: Lisinopril, Furosemide
+Prescribed Treatments: Low-sodium diet, fluid restriction
+Medical History:
+- 2024-03-10: Symptoms: Swelling, fatigue; Diagnoses: CKD stage 3; Medications: Lisinopril, Furosemide; Adherence: good; Side Effects: Frequent urination; Barriers: None
+Clinical Notes: Kidney function stable, blood pressure controlled.
+Missed Appointments: 0
+Non-compliance Patterns: None
+Lab Results:
+- 2024-03-10: eGFR 45 mL/min/1.73m²

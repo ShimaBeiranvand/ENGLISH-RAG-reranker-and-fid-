@@ -1,0 +1,16 @@
+Patient ID: P1001
+Name: John Doe
+Age: 54
+Gender: Male
+Medical Conditions: Hypertension, Type 2 Diabetes
+Current Medications: Metformin, Lisinopril
+Prescribed Treatments: Diet modification, Exercise
+Medical History:
+- 2024-02-10: Symptoms: Fatigue, Increased thirst; Diagnoses: Type 2 Diabetes; Medications: Metformin; Adherence: good; Side Effects: None; Barriers: Diet compliance
+- 2024-04-15: Symptoms: Headache, High blood pressure; Diagnoses: Hypertension; Medications: Lisinopril; Adherence: moderate; Side Effects: Mild cough; Barriers: None
+Clinical Notes: Patient shows moderate adherence to medication. Reports mild side effects but no major complications.
+Missed Appointments: 1
+Non-compliance Patterns: Occasional missed doses
+Lab Results:
+- 2024-02-10: HbA1c 7.2% (Above target)
+- 2024-04-15: Blood Pressure 150/95 (Hypertensive)

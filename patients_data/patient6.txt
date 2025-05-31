@@ -1,0 +1,14 @@
+Patient ID: P1006
+Name: Olivia Martinez
+Age: 38
+Gender: Female
+Medical Conditions: Hypothyroidism
+Current Medications: Levothyroxine
+Prescribed Treatments: Daily thyroid hormone replacement
+Medical History:
+- 2024-02-05: Symptoms: Fatigue, weight gain; Diagnoses: Hypothyroidism; Medications: Levothyroxine; Adherence: high; Side Effects: None; Barriers: None
+Clinical Notes: Thyroid levels normalized with medication.
+Missed Appointments: 0
+Non-compliance Patterns: None
+Lab Results:
+- 2024-02-05: TSH 2.5 mIU/L (Normal)

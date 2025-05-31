@@ -1,0 +1,14 @@
+Patient ID: P1002
+Name: Jane Smith
+Age: 67
+Gender: Female
+Medical Conditions: Coronary Artery Disease
+Current Medications: Aspirin, Atorvastatin
+Prescribed Treatments: Cardiac rehabilitation
+Medical History:
+- 2023-12-01: Symptoms: Chest pain; Diagnoses: Coronary Artery Disease; Procedures: Angioplasty; Medications: Aspirin, Atorvastatin; Adherence: high; Side Effects: None; Barriers: None
+Clinical Notes: Patient is compliant with medications and attends all follow-up appointments.
+Missed Appointments: 0
+Non-compliance Patterns: None
+Lab Results:
+- 2024-01-10: Lipid Panel LDL 90 mg/dL (At goal)

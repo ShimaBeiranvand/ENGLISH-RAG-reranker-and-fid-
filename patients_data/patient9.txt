@@ -1,0 +1,14 @@
+Patient ID: P1009
+Name: David Kim
+Age: 65
+Gender: Male
+Medical Conditions: COPD, Hypertension
+Current Medications: Tiotropium, Amlodipine
+Prescribed Treatments: Smoking cessation, inhaler use
+Medical History:
+- 2024-03-25: Symptoms: Chronic cough, shortness of breath; Diagnoses: COPD; Medications: Tiotropium; Adherence: moderate; Side Effects: Dry mouth; Barriers: Difficulty quitting smoking
+Clinical Notes: Patient advised on smoking cessation, moderate medication adherence.
+Missed Appointments: 1
+Non-compliance Patterns: Missed doses of inhaler
+Lab Results:
+- 2024-03-25: FEV1 55% predicted

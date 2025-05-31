@@ -1,0 +1,14 @@
+Patient ID: P1004
+Name: Emily Davis
+Age: 60
+Gender: Female
+Medical Conditions: Osteoarthritis
+Current Medications: Ibuprofen
+Prescribed Treatments: Physical therapy, pain management
+Medical History:
+- 2024-01-15: Symptoms: Joint pain, stiffness; Diagnoses: Osteoarthritis; Medications: Ibuprofen; Adherence: moderate; Side Effects: Stomach upset; Barriers: Medication side effects
+Clinical Notes: Patient reports pain relief with therapy but struggles with medication side effects.
+Missed Appointments: 2
+Non-compliance Patterns: Missed physical therapy sessions
+Lab Results:
+- 2024-01-15: X-ray shows joint space narrowing

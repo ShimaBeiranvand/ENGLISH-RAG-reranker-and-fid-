@@ -1,0 +1,14 @@
+Patient ID: P1008
+Name: Sophia Lee
+Age: 29
+Gender: Female
+Medical Conditions: Migraine
+Current Medications: Sumatriptan
+Prescribed Treatments: Avoid triggers, acute medication use
+Medical History:
+- 2024-04-01: Symptoms: Severe headaches, nausea; Diagnoses: Migraine; Medications: Sumatriptan; Adherence: good; Side Effects: None; Barriers: None
+Clinical Notes: Migraines well controlled with medication.
+Missed Appointments: 0
+Non-compliance Patterns: None
+Lab Results:
+- None

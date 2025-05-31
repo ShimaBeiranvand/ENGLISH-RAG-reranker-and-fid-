@@ -1,0 +1,14 @@
+Patient ID: P1010
+Name: Isabella Garcia
+Age: 42
+Gender: Female
+Medical Conditions: Rheumatoid Arthritis
+Current Medications: Methotrexate, Prednisone
+Prescribed Treatments: Immunosuppressive therapy, physical therapy
+Medical History:
+- 2024-01-30: Symptoms: Joint pain, swelling; Diagnoses: Rheumatoid Arthritis; Medications: Methotrexate, Prednisone; Adherence: good; Side Effects: Mild nausea; Barriers: None
+Clinical Notes: Disease activity controlled with current regimen.
+Missed Appointments: 0
+Non-compliance Patterns: None
+Lab Results:
+- 2024-01-30: Elevated ESR and CRP

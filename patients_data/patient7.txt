@@ -1,0 +1,14 @@
+Patient ID: P1007
+Name: James Wilson
+Age: 50
+Gender: Male
+Medical Conditions: Depression, Anxiety
+Current Medications: Sertraline
+Prescribed Treatments: Cognitive behavioral therapy, medication
+Medical History:
+- 2023-12-20: Symptoms: Low mood, anxiety; Diagnoses: Major depressive disorder; Medications: Sertraline; Adherence: moderate; Side Effects: Nausea; Barriers: Occasional missed doses
+Clinical Notes: Patient engaged in therapy, medication side effects improving.
+Missed Appointments: 1
+Non-compliance Patterns: Missed therapy sessions
+Lab Results:
+- None
